@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/santosh/Downloads/BESW-DoNation-main/src/contracts/DoNation.sol": {
+      "lastModificationDate": 1681786824500,
+      "contentHash": "e18900f6db8a97ad3cc619e63c231972",
+      "sourceName": "src/contracts/DoNation.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "DoNation"
+      ]
+    }
+  }
+}
